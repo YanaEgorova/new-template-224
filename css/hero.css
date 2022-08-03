@@ -87,9 +87,7 @@
     max-width: 53rem;
     margin: 0 auto;
 }
-.question__img {
-    display: none;
-}
+
 
 
 
@@ -161,22 +159,6 @@
     }
 
 
-    .question .sub-title {
-        margin-bottom: 13rem;
-    }
-    .question__block {
-        display: flex;
-    }
-    .question__img {
-        display: block;
-        width: 50%;
-        object-fit: cover;
-        border-radius: 3rem;
-    }
-    .question__list {
-        padding: 5rem 0;
-        text-align: left;
-    }
 
 
     .policy .btn:hover {
