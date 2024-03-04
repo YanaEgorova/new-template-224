@@ -170,6 +170,7 @@
     .policy__box {
         display: flex;
         justify-content: center;
+        position: relative;
     }
     .policy__block {
         margin: 0;
