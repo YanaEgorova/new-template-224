@@ -129,7 +129,7 @@
     .hero__item.fourth {
         background-color: var(--second-brand-color);
     }
-    .hero__item.sixth {
+    .hero__item.sixth,  .hero__item:nth-child(2),  .hero__item:nth-child(7) {
         background-color: var(--third-brand-color);
     }
     .hero__item.eighth {
